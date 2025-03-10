@@ -306,6 +306,8 @@ A: 在 config.py 中修改 LLM_PROVIDER 和相应的API配置，目前仅支持o
 欢迎提交Pull Request或Issue来帮助改进这个项目！
 
 ## 致谢
+感觉社区提供的[paperscraper工具](https://github.com/jannisborn/paperscraper)。
+
 感谢 [Trae AI 编辑器](
 https://www.trae.ai/
 ) 为这个项目提供了强大的代码生成能力。
